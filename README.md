@@ -1,1 +1,1 @@
-# YashovardhanSinghal--DNA-Sequence-Alignment-and-Protein-Structure-Prediction
+# DNA-Sequence-Alignment-and-Protein-Structure-Prediction

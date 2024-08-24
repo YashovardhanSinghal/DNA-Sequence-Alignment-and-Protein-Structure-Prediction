@@ -34,17 +34,17 @@ _Note: The \`requirements.txt\` file should be added with the necessary dependen
 
 To perform a global sequence alignment, run the following command:
 
-\`\`\`bash
+'bash
 python GlobalAlignment.py sequence1.txt sequence2.txt
-\`\`\`
+'
 
 ### Local Sequence Alignment
 
 To perform a local sequence alignment, use:
 
-\`\`\`bash
+'bash
 python LocalAlignment.py sequence1.txt sequence2.txt
-\`\`\`
+'
 
 ### Protein Secondary Structure Prediction
 

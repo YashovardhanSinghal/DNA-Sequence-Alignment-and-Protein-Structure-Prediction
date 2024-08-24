@@ -54,7 +54,7 @@ To predict the secondary structure of a protein sequence:
 python ChouFasman.py protein_sequence.txt
 \`\`\`
 
-The output will be saved in \`secondary_structure_output.txt\`.
+The output will be saved in `secondary_structure_output.txt`.
 
 ## Output
 

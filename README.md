@@ -16,7 +16,7 @@ This project performs DNA sequence alignment and protein secondary structure pre
 To get started, clone the repository and ensure you have Python installed:
 
 \`\`\`bash
-git clone https://github.com/your-repo/DNA-Sequence-Alignment-and-Protein-Structure-Prediction.git
+git clone `https://github.com/your-repo/DNA-Sequence-Alignment-and-Protein-Structure-Prediction.git`
 cd DNA-Sequence-Alignment-and-Protein-Structure-Prediction
 \`\`\`
 
@@ -58,6 +58,6 @@ The output will be saved in \`secondary_structure_output.txt\`.
 
 ## Output
 
-The \`secondary_structure_output.txt\` file will contain the predicted secondary structure for the input protein sequence, indicating regions of alpha helices, beta sheets, and turns.
+The `secondary_structure_output.txt` file will contain the predicted secondary structure for the input protein sequence, indicating regions of alpha helices, beta sheets, and turns.
 
 

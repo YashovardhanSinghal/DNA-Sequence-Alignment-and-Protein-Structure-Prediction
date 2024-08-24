@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project performs DNA sequence alignment and protein secondary structure prediction. Global and local alignment algorithms are implemented. Chou-Fasman algorithm has been implemented for predicting protein secondary structures based on amino acid sequences.
+This project performs `DNA sequence alignment` and `protein secondary structure prediction`. Global and local alignment algorithms are implemented. `Chou-Fasman algorithm` has been implemented for predicting protein secondary structures based on amino acid sequences.
 
 ## Features
 
